@@ -1,0 +1,4 @@
+module HALAudioCore {
+    header "HALAudioCore.h"
+    export *
+}

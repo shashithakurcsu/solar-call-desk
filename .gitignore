@@ -1,0 +1,38 @@
+# Build products and generated assets
+.build/
+.swiftpm/
+dist/
+scripts/AppIcon.iconset/
+scripts/AppIcon.icns
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Machine-specific signing and credentials
+.local-signing-identity*
+.env
+.env.*
+!.env.example
+*.keychain
+*.keychain-db
+*.p12
+*.pfx
+*.pem
+*.mobileprovision
+
+# Private diagnostics, conversations and captures
+Verification/
+CallAudioSetup/
+private/
+captures/
+transcripts/
+*.log
+*.wav
+*.pcm
+*.m4a
+*.caf
+*.mov
+*.mp4
+*.zip
+*.pkg
+*.dmg
