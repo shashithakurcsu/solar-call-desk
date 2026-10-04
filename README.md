@@ -118,6 +118,10 @@ The visual test runner optionally accepts explicitly supplied local screenshot f
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for development and [SECURITY.md](SECURITY.md) for privacy boundaries.
 
+## Contributors
+
+Created and maintained by [shashithakurcsu](https://github.com/shashithakurcsu), with AI development assistance from **Codex (OpenAI)** and troubleshooting and design-review guidance from **Claude (Anthropic)**. See [CONTRIBUTORS.md](CONTRIBUTORS.md) for contribution details.
+
 ## License
 
 Project source is released under the [MIT License](LICENSE). External system frameworks, services, and separately installed drivers retain their own licenses and terms; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
